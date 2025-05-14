@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohankumaryaka/Leetcode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/mohankumaryaka/Leetcode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohankumaryaka/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/mohankumaryaka/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/mohankumaryaka/Leetcode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohankumaryaka/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
