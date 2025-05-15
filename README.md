@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/mohankumaryaka/Leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/mohankumaryaka/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/mohankumaryaka/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/mohankumaryaka/Leetcode/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/mohankumaryaka/Leetcode/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/mohankumaryaka/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/mohankumaryaka/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/mohankumaryaka/Leetcode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/mohankumaryaka/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/mohankumaryaka/Leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/mohankumaryaka/Leetcode/tree/master/1013-fibonacci-number) |
 ## String
 |  |
