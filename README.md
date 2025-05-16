@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/mohankumaryaka/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/mohankumaryaka/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [2491-smallest-even-multiple](https://github.com/mohankumaryaka/Leetcode/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/mohankumaryaka/Leetcode/tree/master/2507-number-of-common-factors) |
 ## Recursion
 |  |
 | ------- |
@@ -83,4 +84,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/mohankumaryaka/Leetcode/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/mohankumaryaka/Leetcode/tree/master/2507-number-of-common-factors) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/mohankumaryaka/Leetcode/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
