@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/mohankumaryaka/Leetcode/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/mohankumaryaka/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/mohankumaryaka/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [2491-smallest-even-multiple](https://github.com/mohankumaryaka/Leetcode/tree/master/2491-smallest-even-multiple) |
 ## Recursion
 |  |
 | ------- |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/mohankumaryaka/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/mohankumaryaka/Leetcode/tree/master/0342-power-of-four) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/mohankumaryaka/Leetcode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
