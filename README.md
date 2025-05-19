@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mohankumaryaka/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohankumaryaka/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/mohankumaryaka/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1019-squares-of-a-sorted-array](https://github.com/mohankumaryaka/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1677-matrix-diagonal-sum](https://github.com/mohankumaryaka/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mohankumaryaka/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mohankumaryaka/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohankumaryaka/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/mohankumaryaka/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/mohankumaryaka/Leetcode/tree/master/0189-rotate-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/mohankumaryaka/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mohankumaryaka/Leetcode/tree/master/0088-merge-sorted-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/mohankumaryaka/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mohankumaryaka/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Simulation
 |  |
