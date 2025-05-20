@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mohankumaryaka/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohankumaryaka/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/mohankumaryaka/Leetcode/tree/master/0035-search-insert-position) |
+| [0073-set-matrix-zeroes](https://github.com/mohankumaryaka/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/mohankumaryaka/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/mohankumaryaka/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohankumaryaka/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mohankumaryaka/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohankumaryaka/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/mohankumaryaka/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mohankumaryaka/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Linked List
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/mohankumaryaka/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/mohankumaryaka/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/mohankumaryaka/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/mohankumaryaka/Leetcode/tree/master/0861-flipping-an-image) |
