@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mohankumaryaka/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohankumaryaka/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/mohankumaryaka/Leetcode/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/mohankumaryaka/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mohankumaryaka/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mohankumaryaka/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/mohankumaryaka/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -124,12 +125,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mohankumaryaka/Leetcode/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/mohankumaryaka/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/mohankumaryaka/Leetcode/tree/master/0861-flipping-an-image) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mohankumaryaka/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mohankumaryaka/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mohankumaryaka/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mohankumaryaka/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/mohankumaryaka/Leetcode/tree/master/0566-reshape-the-matrix) |
