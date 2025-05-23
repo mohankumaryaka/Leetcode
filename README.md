@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/mohankumaryaka/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/mohankumaryaka/Leetcode/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/mohankumaryaka/Leetcode/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/mohankumaryaka/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/mohankumaryaka/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/mohankumaryaka/Leetcode/tree/master/0231-power-of-two) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/mohankumaryaka/Leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/mohankumaryaka/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/mohankumaryaka/Leetcode/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/mohankumaryaka/Leetcode/tree/master/0861-flipping-an-image) |
