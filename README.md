@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/mohankumaryaka/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/mohankumaryaka/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mohankumaryaka/Leetcode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/mohankumaryaka/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/mohankumaryaka/Leetcode/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/mohankumaryaka/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/mohankumaryaka/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mohankumaryaka/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/mohankumaryaka/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohankumaryaka/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0367-valid-perfect-square](https://github.com/mohankumaryaka/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Prefix Sum
 |  |
 | ------- |
