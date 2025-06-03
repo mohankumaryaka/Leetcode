@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/mohankumaryaka/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mohankumaryaka/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/mohankumaryaka/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/mohankumaryaka/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/mohankumaryaka/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohankumaryaka/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/mohankumaryaka/Leetcode/tree/master/0217-contains-duplicate) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/mohankumaryaka/Leetcode/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/mohankumaryaka/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/mohankumaryaka/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/mohankumaryaka/Leetcode/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/mohankumaryaka/Leetcode/tree/master/0861-flipping-an-image) |
